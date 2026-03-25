@@ -1,7 +1,6 @@
 import 'zone.js';
 import { Component } from '@angular/core';
 import { bootstrapApplication } from '@angular/platform-browser';
-import { NgFor } from '@angular/common';
 
 type Movie = {
   title: string;
@@ -17,7 +16,6 @@ type TreeNode = {
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [NgFor],
   styles: [
     `
     .container-title {
