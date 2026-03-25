@@ -60,7 +60,7 @@ Follow these steps to get your local development environment up and running:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/kanadipa/movie-tree.git](https://github.com/kanadipa/movie-tree.git)
+    git clone https://github.com/kanadipa/movie-tree.git
     ```
 
 2.  **Install dependencies:**
